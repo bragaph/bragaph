@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.caixaleft{
+    width:40%;
+    height:40%;
+    position:absolute;
+    top:60px;
+    background-color: black;
+    left: 380px;
+  
+}
+
+h2{
+    position: absolute;
+    top: 140px;
+    left: 200px;
+    width: 100%;
+    
+}
+.logoinst{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 130px;
+    left: 100px;
+    text-align: center;
+   
+}
+.sansung{
+    background-color: #183dde;
+    position: relative;
+    top: 300px;
+}
+.motorola{
+    background-color: brown;
+    position: relative;
+}
+.xiaomi{
+    background-color: aqua;
+    position: relative;
+}
+.lg{
+    background-color: red;
+    position: relative;
+}
+.imagema{
+    width: 150px;
+    height: 250px;
+    position:relative;
+   left: 10px;
+}
+
