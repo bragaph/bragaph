@@ -1,4 +1,4 @@
 ### Olá, me chamo Antonio Braga
 
-atualmente estou cursando Analise e Desenvolvimento de Sistemas, na universidade Anhanguera!
+atualmente estou cursando Análise e Desenvolvimento de Sistemas!
 
