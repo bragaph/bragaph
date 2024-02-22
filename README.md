@@ -1,5 +1,4 @@
 ### Olá, me chamo Antonio Braga
 
-<!--
-atualmente estou corsando analise e desenvolvimento de sistemas, na universidade pitagoras!
--->
+atualmente estou cursando Analise e Desenvolvimento de Sistemas, na universidade Anhanguera!
+
